@@ -78,23 +78,3 @@ A Scikit-learn preprocessing pipeline was created using:
 
 This provides a consistent and reproducible preprocessing workflow.
 
-## Project Structure
-
-```text
-Enterprise_Data_Preparation_Employee_Attrition/
-│
-├── README.md
-├── requirements.txt
-├── Enterprise_Data_Preparation_Employee_Attrition.ipynb
-│
-├── data/
-│   └── employee_attrition_raw.csv
-│
-├── outputs/
-│   ├── clean_employee_attrition_dataset.csv
-│   └── processed_employee_attrition_dataset.csv
-│
-└── reports/
-    ├── data_cleaning_report.md
-    ├── feature_engineering_report.md
-    └── pipeline_documentation.md
